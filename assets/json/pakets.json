@@ -1,0 +1,101 @@
+{
+    "status": "success",
+    "message": "Packages retrieved successfully",
+    "data": {
+      "monthly": [
+        {
+          "id": 1,
+          "name": "Paket Free",
+          "type": "free",
+          "description": "Dapatkan gratis 5 credit setiap bulan",
+          "credit_add_monthly": 5,
+          "price": 0,
+          "details": [
+            "Akses semua templat",
+            "Akses download Word",
+            "Akses download Excel",
+            "Akses download PowerPoint"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Paket Dasar",
+          "type": "monthly",
+          "description": "Dapatkan gratis 20 credit setiap bulan",
+          "credit_add_monthly": 20,
+          "price": 15000,
+          "details": [
+            "Akses semua templat",
+            "Akses download Word",
+            "Akses download Excel",
+            "Akses download PowerPoint",
+            "Opsi pembelian ekstra credit"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Paket Super",
+          "type": "monthly",
+          "description": "Dapatkan gratis 40 credit setiap bulan",
+          "credit_add_monthly": 40,
+          "price": 25000,
+          "details": [
+            "Akses semua templat",
+            "Akses download Word",
+            "Akses download Excel",
+            "Akses download PowerPoint",
+            "Opsi pembelian ekstra credit",
+            "Dukungan teknis"
+          ]
+        }
+      ],
+      "annually": [
+        {
+          "id": 1,
+          "name": "Paket Free",
+          "type": "free",
+          "description": "Dapatkan gratis 5 credit setiap bulan",
+          "credit_add_monthly": 5,
+          "price": 0,
+          "details": [
+            "Akses semua templat",
+            "Akses download Word",
+            "Akses download Excel",
+            "Akses download PowerPoint"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Paket Dasar",
+          "type": "annually",
+          "description": "Setara Rp 8.333/bulan. Dapatkan gratis 20 credit setiap bulan ",
+          "credit_add_monthly": 20,
+          "price": 100000,
+          "details": [
+            "Akses semua templat",
+            "Akses download Word",
+            "Akses download Excel",
+            "Akses download PowerPoint",
+            "Opsi pembelian ekstra credit"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Paket Super",
+          "type": "annually",
+          "description": "Setara Rp 12.500/bulan. Dapatkan gratis 40 credit setiap bulan",
+          "credit_add_monthly": 40,
+          "price": 150000,
+          "details": [
+            "Akses semua templat",
+            "Akses download Word",
+            "Akses download Excel",
+            "Akses download PowerPoint",
+            "Opsi pembelian ekstra credit",
+            "Dukungan teknis"
+          ]
+        }
+      ]
+    }
+  }
+  

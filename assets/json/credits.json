@@ -1,0 +1,28 @@
+[
+    {
+      "name": "5 Credit",
+      "credit_amount": 5,
+      "price": 4000
+    },
+    {
+      "name": "10 Credit",
+      "credit_amount": 10,
+      "price": 8000
+    },
+    {
+      "name": "15 Credit",
+      "credit_amount": 15,
+      "price": 12000
+    },
+    {
+      "name": "20 Credit",
+      "credit_amount": 20,
+      "price": 18000
+    },
+    {
+      "name": "25 Credit",
+      "credit_amount": 25,
+      "price": 20000
+    }
+  ]
+  
